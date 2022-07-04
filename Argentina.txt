@@ -1,0 +1,3 @@
+* **##Git y GitHub** *
+Personalmente me gusto el control de versiones, ya que permite tener un 
+historial de versiones y a su vez poder olvidarse de los pen-drives 
